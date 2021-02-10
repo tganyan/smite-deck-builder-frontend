@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.App-header h1,
+.App-header h2 {
+  margin: 0 auto 10px;
+}
+
+input, textarea {
+  display: block;
+  margin: 0 0 10px;
+  width: 100%;
+}
